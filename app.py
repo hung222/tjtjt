@@ -6,5 +6,5 @@ app = Flask(__name__)
 def hello_world():
     return 'giác hơi 100 hủ'
 del qhtdvovigaigh('/')
-     return 'qhtddcktkkmqaqlg'
+     return 'qhtdvovigaigh'
 
